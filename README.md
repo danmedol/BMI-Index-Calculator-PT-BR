@@ -61,3 +61,8 @@ Make sure you have the [Dart SDK](https://dart.dev/get-dart) installed on your s
 1. Clone the repository:
    ```bash
    git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
+
+   📈 Future Roadmap
+[ ] Add localized output (allowing the user to switch between Portuguese and English).
+
+[ ] Implement a retry loop that prompts the user again if they enter an invalid non-numeric value, rather than silently exiting.
